@@ -102,20 +102,24 @@ async def anony_boot():
 # 🚀 Start Point
 import os
 from flask import Flask
-import threading
+import asyncio
 
 app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Shruti ChatBot is running!"
+    return "✅ Shruti ChatBot is running on Render!"
 
-def run_flask():
+async def run_flask():
     port = int(os.environ.get("PORT", 10000))
-    app.run(host="0.0.0.0", port=port)
+    # Run flask inside a thread so it doesn’t block asyncio
+    await asyncio.to_thread(app.run, host="0.0.0.0", port=port)
+
+async def main():
+    # Start Flask and Bot together
+    asyncio.create_task(run_flask())
+    await anony_boot()
 
 if __name__ == "__main__":
-    # Start Flask in a separate thread (for Render)
-    threading.Thread(target=run_flask).start()
-    # Start Telegram bot
-    asyncio.get_event_loop().run_until_complete(anony_boot())
+    asyncio.run(main())
+
