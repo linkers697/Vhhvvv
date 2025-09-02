@@ -100,6 +100,22 @@ async def anony_boot():
 
 
 # 🚀 Start Point
+import os
+from flask import Flask
+import threading
+
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "Shruti ChatBot is running!"
+
+def run_flask():
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
+
 if __name__ == "__main__":
+    # Start Flask in a separate thread (for Render)
+    threading.Thread(target=run_flask).start()
+    # Start Telegram bot
     asyncio.get_event_loop().run_until_complete(anony_boot())
-    LOGGER.info("🛑 Stopping ShrutiCHATBOT Bot...")
