@@ -10,6 +10,7 @@ API_HASH = os.getenv("API_HASH", "4e984ea35f854762dcde906dce426c2d")
 # Bot Token / String Session
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
 STRING1 = os.getenv("STRING_SESSION", None)
+PORT = os.getenv(" PORT", "10000")
 
 # Database
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION")
