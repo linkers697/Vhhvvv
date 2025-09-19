@@ -15,7 +15,7 @@ START = """**
 
 
 ╔═══⋆ʟᴏᴠᴇ ᴡɪᴛʜ⋆═══╗
-★ [𝐌𝐢𝐬𝐬 𝐒𝐡𝐫𝐮𝐭𝐢](https://t.me/Mrs_Shruti)     ★
+★ [𝐌𝐢𝐬𝐬](https://t.me/HeavenChatGroup)     ★
 ╚═════ ⋆★⋆ ═════╝
 **"""
 
@@ -42,7 +42,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 
 ╔═══⋆ʟᴏᴠᴇ ᴡɪᴛʜ⋆═══╗
-★ [𝐌𝐢𝐬𝐬 𝐒𝐡𝐫𝐮𝐭𝐢](https://t.me/Mrs_Shruti)     ★
+★ [𝐌𝐢𝐬𝐬](https://t.me/HeavenChatGroup)     ★
 ╚═════ ⋆★⋆ ═════╝ **
 """
 
@@ -68,11 +68,11 @@ CHATBOT_READ = f"""**
 
 
 ╔═══⋆ʟᴏᴠᴇ ᴡɪᴛʜ⋆═══╗
-★ [𝐌𝐢𝐬𝐬 𝐒𝐡𝐫𝐮𝐭𝐢](https://t.me/Mrs_Shruti)     ★
+★ [𝐌𝐢𝐬𝐬](https://t.me/HeavenChatGroup)     ★
 ╚═════ ⋆★⋆ ═════╝**
 """
 
-SOURCE_READ = f"**❍ ʜᴇʏ, ᴛʜᴇ [{ShrutiCHATBOT.name}](https://t.me/{ShrutiCHATBOT.username}) ɪs ɴᴇᴡ ᴘᴏᴡᴇʀғᴜʟʟ ᴄʜᴀᴛʙᴏᴛ ᴏғ ᴡʜᴏʟᴇ ᴛᴇʟᴇɢʀᴀᴍ.**\n\n**❍ ᴘʟᴇᴀsᴇ ᴅᴏɴᴀᴛᴇ ᴛʜᴇ ᴅᴇᴠʟᴏᴘᴇʀ ᴛᴏ ᴍᴀɪɴᴛᴀɪɴ ᴛʜᴇ ᴘʀᴏɪᴇᴄᴛs**\n\n**⦿──────────────────⦿**\n\n**❍ ʜᴇʀᴇ ɪs ᴛʜᴇ ǫʀ [ᴅᴏɴᴀᴛᴇ ʜᴇʀᴇ](https://t.me/creativeydv/3)**\n\n**⦿──────────────────⦿**\n\n**❍ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP})..\n\n<b>||❍ ʟᴏᴠᴇ ᴡɪᴛʜ ➪ [𝐌𝐢𝐬𝐬 𝐒𝐡𝐫𝐮𝐭𝐢](https://t.me/Mrs_Shruti)**||</b>"
+SOURCE_READ = f"**❍ ʜᴇʏ, ᴛʜᴇ [{ShrutiCHATBOT.name}](https://t.me/{ShrutiCHATBOT.username}) ɪs ɴᴇᴡ ᴘᴏᴡᴇʀғᴜʟʟ ᴄʜᴀᴛʙᴏᴛ ᴏғ ᴡʜᴏʟᴇ ᴛᴇʟᴇɢʀᴀᴍ.**\n\n**❍ ᴘʟᴇᴀsᴇ ᴅᴏɴᴀᴛᴇ ᴛʜᴇ ᴅᴇᴠʟᴏᴘᴇʀ ᴛᴏ ᴍᴀɪɴᴛᴀɪɴ ᴛʜᴇ ᴘʀᴏɪᴇᴄᴛs**\n\n**⦿──────────────────⦿**\n\n**❍ ʜᴇʀᴇ ɪs ᴛʜᴇ ǫʀ [ᴅᴏɴᴀᴛᴇ ʜᴇʀᴇ](https://t.me/AuraAnimes/3)**\n\n**⦿──────────────────⦿**\n\n**❍ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP})..\n\n<b>||❍ ʟᴏᴠᴇ ᴡɪᴛʜ ➪ [𝐌𝐢𝐬𝐬](https://t.me/HeavenChatGroup)**||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
