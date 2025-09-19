@@ -11,7 +11,7 @@
   "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/NoxxOP/ChatBot",
+  "repository": "https://github.com/linkers697/Vhhvvv",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org (API Development Tools)",
@@ -51,12 +51,12 @@
     "SUPPORT_GRP": {
       "description": "Your Telegram Support Group username (without @)",
       "required": false,
-      "value": "ShrutiBotSupport"
+      "value": "HeavenChatGroup"
     },
     "UPDATE_CHNL": {
       "description": "Your Telegram Updates Channel username (without @)",
       "required": false,
-      "value": "ShrutiBots"
+      "value": "AuraVisual"
     }
   }
 }
