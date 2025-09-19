@@ -29,7 +29,7 @@
 ## 🚀 Quick Deploy
 
 ### Deploy to Heroku
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ChatBot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/linkers697/Vhhvvv)
 
 ### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/NoxxOP/ChatBot)
