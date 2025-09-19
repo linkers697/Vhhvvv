@@ -14,9 +14,9 @@ START = """**
 ➪ ᴍᴀᴋᴇ ʏᴏᴜʀ ɪᴅ-ᴄʜᴀᴛʙᴏᴛ 
 
 
-╔═══⋆ʟᴏᴠᴇ ᴡɪᴛʜ⋆═══╗
-★ [𝐌𝐢𝐬𝐬](https://t.me/HeavenChatGroup)     ★
-╚═════ ⋆★⋆ ═════╝
+╔═══ 𝗧ε᧘‌ᴍ 𝐀𝘂𝗿𝗮
+ [Chazzer!](https://t.me/HeavenChatGroup)     
+╚═════ ⚡ ═════╝
 **"""
 
 HELP_READ = f"""**
@@ -41,9 +41,9 @@ TOOLS_DATA_READ = f"""**
 ➻ /shayri ɢᴇᴛ ʀᴀɴᴅᴏᴍ sʜᴀʏʀɪ ғᴏʀ ʏᴏᴜʀ ʟᴏᴠᴇ
 ──────────────
 
-╔═══⋆ʟᴏᴠᴇ ᴡɪᴛʜ⋆═══╗
-★ [𝐌𝐢𝐬𝐬](https://t.me/HeavenChatGroup)     ★
-╚═════ ⋆★⋆ ═════╝ **
+╔═══ 𝗧ε᧘‌ᴍ 𝐀𝘂𝗿𝗮
+ [Chazzer!](https://t.me/HeavenChatGroup)     
+╚═════ ⚡ ═════╝ **
 """
 
 CHATBOT_READ = f"""**
@@ -67,9 +67,9 @@ CHATBOT_READ = f"""**
 ──────────────
 
 
-╔═══⋆ʟᴏᴠᴇ ᴡɪᴛʜ⋆═══╗
-★ [𝐌𝐢𝐬𝐬](https://t.me/HeavenChatGroup)     ★
-╚═════ ⋆★⋆ ═════╝**
+╔═══ 𝗧ε᧘‌ᴍ 𝐀𝘂𝗿𝗮
+ [Chazzer!](https://t.me/HeavenChatGroup)     
+╚═════ ⚡ ═════╝**
 """
 
 SOURCE_READ = f"**❍ ʜᴇʏ, ᴛʜᴇ [{ShrutiCHATBOT.name}](https://t.me/{ShrutiCHATBOT.username}) ɪs ɴᴇᴡ ᴘᴏᴡᴇʀғᴜʟʟ ᴄʜᴀᴛʙᴏᴛ ᴏғ ᴡʜᴏʟᴇ ᴛᴇʟᴇɢʀᴀᴍ.**\n\n**❍ ᴘʟᴇᴀsᴇ ᴅᴏɴᴀᴛᴇ ᴛʜᴇ ᴅᴇᴠʟᴏᴘᴇʀ ᴛᴏ ᴍᴀɪɴᴛᴀɪɴ ᴛʜᴇ ᴘʀᴏɪᴇᴄᴛs**\n\n**⦿──────────────────⦿**\n\n**❍ ʜᴇʀᴇ ɪs ᴛʜᴇ ǫʀ [ᴅᴏɴᴀᴛᴇ ʜᴇʀᴇ](https://t.me/AuraAnimes/3)**\n\n**⦿──────────────────⦿**\n\n**❍ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP})..\n\n<b>||❍ ʟᴏᴠᴇ ᴡɪᴛʜ ➪ [𝐌𝐢𝐬𝐬](https://t.me/HeavenChatGroup)**||</b>"
